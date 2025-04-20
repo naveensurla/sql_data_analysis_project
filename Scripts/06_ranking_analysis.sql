@@ -1,6 +1,6 @@
 /*
 ===============================================================================
-Ranking Analysis (MySQL Compatible)
+Ranking Analysis 
 ===============================================================================
 Purpose:
     - To rank products and customers based on performance.
